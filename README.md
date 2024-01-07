@@ -28,7 +28,7 @@ To get started with Dart Task Tracker, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dart-task-tracker.git
+   git clone https://github.com/MLankaoui/TasksTracker.git
 2. install dart
 3. run the program
 4. enjoy
